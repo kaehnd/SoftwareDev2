@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="190.0" prefWidth="350.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kaehnd.KernelController">
+   <children>
+      <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0" spacing="10.0">
+         <children>
+            <TextField fx:id="kernelField0" alignment="CENTER" prefWidth="75.0" text="0" />
+            <TextField fx:id="kernelField1" alignment="CENTER" prefWidth="75.0" text="1" />
+            <TextField fx:id="kernelField2" alignment="CENTER" prefWidth="75.0" text="0" />
+            <Button mnemonicParsing="false" onAction="#blur" prefWidth="60.0" text="Blur" />
+         </children>
+      </HBox>
+      <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="522.0" spacing="10.0">
+         <children>
+            <TextField fx:id="kernelField3" alignment="CENTER" prefWidth="75.0" text="1" />
+            <TextField fx:id="kernelField4" alignment="CENTER" prefWidth="75.0" text="5" />
+            <TextField fx:id="kernelField5" alignment="CENTER" prefWidth="75.0" text="1" />
+            <Button mnemonicParsing="false" onAction="#sharpen" text="Sharpen" />
+         </children>
+      </HBox>
+      <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0" spacing="10.0">
+         <children>
+            <TextField fx:id="kernelField6" alignment="CENTER" prefWidth="75.0" text="0" />
+            <TextField fx:id="kernelField7" alignment="CENTER" prefWidth="75.0" text="1" />
+            <TextField fx:id="kernelField8" alignment="CENTER" prefWidth="75.0" text="0" />
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#apply" prefWidth="75.0" text="Apply" />
+         </children>
+      </HBox>
+   </children>
+   <padding>
+      <Insets left="10.0" />
+   </padding>
+</VBox>

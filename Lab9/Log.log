@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-02-06T20:30:35.369952400Z</date>
+  <millis>1549485035369</millis>
+  <nanos>952400</nanos>
+  <sequence>0</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>File extension must match ".gif", ".jpg", ".png", ".tiff", or ".msoe"</message>
+</record>
+<record>
+  <date>2019-02-06T20:30:41.739957800Z</date>
+  <millis>1549485041739</millis>
+  <nanos>957800</nanos>
+  <sequence>1</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>File extension must match ".gif", ".jpg", ".png", ".tiff", or ".msoe"</message>
+</record>
+<record>
+  <date>2019-02-06T20:30:51.044024700Z</date>
+  <millis>1549485051044</millis>
+  <nanos>24700</nanos>
+  <sequence>2</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>File extension must match ".gif", ".jpg", ".png", ".tiff", or ".msoe"</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-02-06T20:42:20.861242800Z</date>
+  <millis>1549485740861</millis>
+  <nanos>242800</nanos>
+  <sequence>0</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>File extension must match ".gif", ".jpg", ".png", ".tiff", or ".msoe"</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-02-07T18:57:41.894022500Z</date>
+  <millis>1549565861894</millis>
+  <nanos>22500</nanos>
+  <sequence>0</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>Kernel window could not be created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-02-07T18:57:59.148479800Z</date>
+  <millis>1549565879148</millis>
+  <nanos>479800</nanos>
+  <sequence>0</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>Kernel window could not be created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-02-07T19:22:16.313695800Z</date>
+  <millis>1549567336313</millis>
+  <nanos>695800</nanos>
+  <sequence>0</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>No file selected</message>
+</record>
+<record>
+  <date>2019-02-07T19:22:31.906503200Z</date>
+  <millis>1549567351906</millis>
+  <nanos>503200</nanos>
+  <sequence>1</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>No file selected</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-02-07T19:23:25.857371300Z</date>
+  <millis>1549567405857</millis>
+  <nanos>371300</nanos>
+  <sequence>0</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>19</thread>
+  <message>No file selected</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-02-07T19:25:46.752255300Z</date>
+  <millis>1549567546752</millis>
+  <nanos>255300</nanos>
+  <sequence>0</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>No file selected</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-02-07T19:28:33.652842Z</date>
+  <millis>1549567713652</millis>
+  <nanos>842000</nanos>
+  <sequence>0</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>No file selected</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-02-08T19:26:45.242491Z</date>
+  <millis>1549654005242</millis>
+  <nanos>491000</nanos>
+  <sequence>0</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>Invalid kernel argument</message>
+</record>
+<record>
+  <date>2019-02-08T19:26:49.833782400Z</date>
+  <millis>1549654009833</millis>
+  <nanos>782400</nanos>
+  <sequence>1</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>Invalid kernel argument</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-02-11T03:14:53.633240100Z</date>
+  <millis>1549854893633</millis>
+  <nanos>240100</nanos>
+  <sequence>0</sequence>
+  <logger>exceptionLogger</logger>
+  <level>WARNING</level>
+  <class>kaehnd.Lab9Controller</class>
+  <method>throwAlert</method>
+  <thread>17</thread>
+  <message>No file destination chosen</message>
+</record>
+</log>
